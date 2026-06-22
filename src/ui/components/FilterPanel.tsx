@@ -12,10 +12,16 @@ type Props = {
 
 export function FilterPanel({ filters, estates, phases, towns, sortMode, onChange, onSortChange }: Props) {
   function togglePhase(phase: string) {
-    const next = filters.phases.includes(phase)
-      ? filters.phases.filter((item) => item !== phase)
-      : [...filters.phases, phase];
-    onChange({ ...filters, phases: next });
+    if (phase === "Total") {
+      onChange({ ...filters, phases: ["Total"] });
+      return;
+    }
+
+    const withoutTotal = filters.phases.filter((item) => item !== "Total");
+    const next = withoutTotal.includes(phase)
+      ? withoutTotal.filter((item) => item !== phase)
+      : [...withoutTotal, phase];
+    onChange({ ...filters, phases: next.length ? next : ["Total"] });
   }
 
   function updateHdbArea(value: string) {

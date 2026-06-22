@@ -23,7 +23,7 @@ import { SchoolMap } from "./components/SchoolMap";
 const repository = new SchoolRepository();
 
 const defaultFilters: SchoolFilters = {
-  phases: ["Phase 2C", "Phase 2C Supplementary"],
+  phases: ["Total"],
   vacanciesOnly: false,
   query: ""
 };
