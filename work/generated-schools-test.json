@@ -1,0 +1,59 @@
+[
+  {
+    "id": "admiralty-primary-school",
+    "name": "Admiralty Primary School",
+    "address": "11 WOODLANDS CIRCLE, Singapore 738907",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "moeSchoolFinderUrl": "https://www.moe.gov.sg/schoolfinder",
+    "registrationRecords": [
+      {
+        "year": 2025,
+        "phase": "Phase 2C",
+        "vacancies": 0,
+        "applicants": 0,
+        "ballotingConducted": false,
+        "ballotingDetails": "Directory-only placeholder. Import official MOE P1 records for vacancies and balloting.",
+        "distanceCategory": null
+      }
+    ]
+  },
+  {
+    "id": "ahmad-ibrahim-primary-school",
+    "name": "Ahmad Ibrahim Primary School",
+    "address": "10 YISHUN STREET 11, Singapore 768643",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "moeSchoolFinderUrl": "https://www.moe.gov.sg/schoolfinder",
+    "registrationRecords": [
+      {
+        "year": 2025,
+        "phase": "Phase 2C",
+        "vacancies": 0,
+        "applicants": 0,
+        "ballotingConducted": false,
+        "ballotingDetails": "Directory-only placeholder. Import official MOE P1 records for vacancies and balloting.",
+        "distanceCategory": null
+      }
+    ]
+  },
+  {
+    "id": "ai-tong-school",
+    "name": "AI Tong School",
+    "address": "100 Bright Hill Drive, Singapore 579646",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "moeSchoolFinderUrl": "https://www.moe.gov.sg/schoolfinder",
+    "registrationRecords": [
+      {
+        "year": 2025,
+        "phase": "Phase 2C",
+        "vacancies": 0,
+        "applicants": 0,
+        "ballotingConducted": false,
+        "ballotingDetails": "Directory-only placeholder. Import official MOE P1 records for vacancies and balloting.",
+        "distanceCategory": null
+      }
+    ]
+  }
+]
