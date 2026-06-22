@@ -6,7 +6,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 220,
-        "applicants": 0,
+        "applicants": 67,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -65,10 +65,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 145,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 10 Balloting applicants 12",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -124,10 +124,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 159,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 12 Balloting applicants 17",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -183,10 +183,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 260,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 30 Balloting applicants 54 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 61 Balloting applicants 83",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -242,10 +242,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 293,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 78 Balloting applicants 118 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 59 Balloting applicants 164",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -301,10 +301,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 160,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 3 Balloting applicants 16",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -360,7 +360,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 49,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -419,7 +419,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 120,
-        "applicants": 0,
+        "applicants": 48,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -478,10 +478,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 139,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 87 Balloting applicants 92",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -537,7 +537,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 160,
-        "applicants": 0,
+        "applicants": 83,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -596,7 +596,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 145,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -655,10 +655,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 211,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 25 Balloting applicants 33 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 49 Balloting applicants 59",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -714,10 +714,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 236,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 17 Balloting applicants 48 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 38 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 66",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -773,10 +773,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 215,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 77 Balloting applicants 135",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -832,7 +832,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 320,
-        "applicants": 0,
+        "applicants": 235,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -891,10 +891,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 148,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 96 Balloting applicants 102",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -950,10 +950,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 115,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 1 Balloting applicants 10",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -1009,7 +1009,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 52,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1068,10 +1068,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 120,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 98,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 15 Balloting applicants 25",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -1127,7 +1127,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 56,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1186,10 +1186,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 248,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 37 Balloting applicants 45 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 28 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 40 Balloting applicants 68",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -1245,7 +1245,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
+        "applicants": 65,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1304,7 +1304,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 94,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1363,7 +1363,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
+        "applicants": 142,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1422,7 +1422,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 184,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1481,7 +1481,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 95,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1540,10 +1540,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 160,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 136,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 66 Balloting applicants 101",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -1599,7 +1599,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 139,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1658,7 +1658,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 100,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1717,7 +1717,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 102,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1776,10 +1776,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 144,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 9 Balloting applicants 15",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -1835,7 +1835,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
+        "applicants": 131,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1894,7 +1894,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 50,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -1953,7 +1953,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 67,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2012,7 +2012,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 220,
-        "applicants": 0,
+        "applicants": 81,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2071,7 +2071,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 32,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2130,7 +2130,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
+        "applicants": 173,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2189,7 +2189,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 73,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2248,7 +2248,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 47,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2307,7 +2307,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 107,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2366,10 +2366,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 190,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 155,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 9 Balloting applicants 16",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -2425,10 +2425,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 223,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 63 Balloting applicants 76",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2484,10 +2484,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 256,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 22 Balloting applicants 36 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 45 Balloting applicants 96",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2543,10 +2543,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 214,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 62 Balloting applicants 137",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2602,10 +2602,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 177,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 6 Balloting applicants 7 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 50 Balloting applicants 74",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2661,7 +2661,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 190,
-        "applicants": 0,
+        "applicants": 144,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2720,10 +2720,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 171,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 67 Balloting applicants 76 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 58 Balloting applicants 73",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2779,7 +2779,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 99,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2838,7 +2838,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 190,
-        "applicants": 0,
+        "applicants": 75,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -2897,10 +2897,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 107,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 1 Balloting applicants 3",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -2956,10 +2956,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 187,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 1 Balloting applicants 4",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3015,7 +3015,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 220,
-        "applicants": 0,
+        "applicants": 108,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -3074,10 +3074,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 137,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 1 Balloting applicants 3 | Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 5 Balloting applicants 21",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school | Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -3133,10 +3133,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 204,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 77 Balloting applicants 110",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3192,10 +3192,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 186,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing between 1km and 2km of the school. Vacancies for ballot 10 Balloting applicants 17",
+        "distanceCategory": "Permanent Resident children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -3251,10 +3251,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 251,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 24 Balloting applicants 44 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 49 Balloting applicants 112",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3310,10 +3310,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 161,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 5 Balloting applicants 10",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -3369,10 +3369,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 330,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 292,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 3 Balloting applicants 19 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 49 Balloting applicants 98",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3428,10 +3428,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 277,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 31 Balloting applicants 44 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 62 Balloting applicants 115",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3487,10 +3487,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 117,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 1 Balloting applicants 3",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -3546,7 +3546,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 203,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -3605,10 +3605,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 173,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes <p>Balloting was conducted because there was a <a href=\"/primary/p1-registration/cap-on-pr-intake\">cap on the intake of Permanent Resident (PR) children</a> for this school in 2025.</p> Vacancies for ballot 8 Balloting applicants 18 | Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 8 Balloting applicants 11",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -3664,7 +3664,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 88,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -3723,10 +3723,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 218,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 119 Balloting applicants 142",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3782,7 +3782,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 220,
-        "applicants": 0,
+        "applicants": 70,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -3841,10 +3841,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 220,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 22 Balloting applicants 35 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 45 Balloting applicants 54",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -3900,7 +3900,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 48,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -3959,10 +3959,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 409,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 42 Balloting applicants 99 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 85 Balloting applicants 259",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4018,10 +4018,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 308,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 4 Balloting applicants 13 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 21 Balloting applicants 40 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 159",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4077,10 +4077,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 124,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 1 Balloting applicants 2 | Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 2 Balloting applicants 5",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school | Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -4136,7 +4136,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 66,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4195,10 +4195,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 177,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 5 Balloting applicants 16",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4254,7 +4254,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 77,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4313,10 +4313,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 184,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 60 Balloting applicants 101",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4372,7 +4372,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 101,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4431,10 +4431,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 247,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 12 Balloting applicants 18 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 28 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 127",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4490,7 +4490,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 28,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4549,10 +4549,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 146,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 16 Balloting applicants 19",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -4608,10 +4608,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 133,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 12 Balloting applicants 13",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -4667,7 +4667,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 144,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4726,7 +4726,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 190,
-        "applicants": 0,
+        "applicants": 98,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4785,7 +4785,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
+        "applicants": 157,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -4844,10 +4844,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 125,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 47",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -4903,10 +4903,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 220,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 19 Balloting applicants 20 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 4 Balloting applicants 24",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -4962,10 +4962,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 245,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 42 Balloting applicants 50 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 21 Balloting applicants 32 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 45 Balloting applicants 94",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5021,10 +5021,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 224,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 255,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 53 Balloting applicants 56 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 35 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 69",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5080,10 +5080,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 156,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 5 Balloting applicants 6 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 52 Balloting applicants 74",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5139,7 +5139,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 320,
-        "applicants": 0,
+        "applicants": 95,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -5198,7 +5198,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
+        "applicants": 141,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -5257,7 +5257,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 350,
-        "applicants": 0,
+        "applicants": 285,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -5316,10 +5316,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 279,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 99 Balloting applicants 200",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5375,10 +5375,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 405,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 52 Balloting applicants 110 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 22 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 193",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5434,7 +5434,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
+        "applicants": 129,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -5493,10 +5493,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 197,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 63 Balloting applicants 72 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 58 Balloting applicants 114",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5552,10 +5552,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 190,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 139,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 5 Balloting applicants 6",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5611,10 +5611,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 174,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 21 Balloting applicants 28",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5670,10 +5670,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 197,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 9 Balloting applicants 11",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -5729,7 +5729,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 70,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -5788,10 +5788,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 132,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 8 Balloting applicants 12",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5847,10 +5847,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 172,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 47 Balloting applicants 56",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -5906,10 +5906,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 238,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 17 Balloting applicants 36",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -5965,10 +5965,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 245,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 27 Balloting applicants 42 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 38 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 87",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6024,7 +6024,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 142,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -6083,10 +6083,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 154,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 54 Balloting applicants 71",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6142,10 +6142,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 148,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 96 Balloting applicants 98",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6201,10 +6201,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 273,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 29 Balloting applicants 35 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 29 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 42 Balloting applicants 122",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6260,10 +6260,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 230,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 29 Balloting applicants 39 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 28 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 40 Balloting applicants 85",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6319,10 +6319,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 157,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 75 Balloting applicants 83",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6378,7 +6378,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 45,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -6437,10 +6437,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 218,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 95 Balloting applicants 108 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 48 Balloting applicants 80",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6496,10 +6496,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 210,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 57 Balloting applicants 64 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 54",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6555,7 +6555,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 39,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -6614,10 +6614,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 192,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 184,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 31 Balloting applicants 54 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 26 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 55",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6673,10 +6673,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 372,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 66 Balloting applicants 152 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 25 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 41 Balloting applicants 146",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6732,10 +6732,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 155,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 26 Balloting applicants 45",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -6791,7 +6791,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 97,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -6850,10 +6850,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 203,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 11 Balloting applicants 43",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -6909,10 +6909,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 139,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 4 Balloting applicants 13",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -6968,10 +6968,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 256,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 25 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 43 Balloting applicants 113",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7027,10 +7027,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 253,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 25 Balloting applicants 37",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -7086,7 +7086,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 192,
-        "applicants": 0,
+        "applicants": 164,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7145,7 +7145,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 206,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7204,10 +7204,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 320,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 224,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 57 Balloting applicants 58",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -7263,10 +7263,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 251,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 11 Balloting applicants 65",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -7322,10 +7322,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 360,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 300,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 20 Balloting applicants 54 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 57 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 45 Balloting applicants 79",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7381,7 +7381,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 101,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7440,7 +7440,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 163,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7499,10 +7499,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 235,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 44 Balloting applicants 74 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 50 Balloting applicants 74",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7558,7 +7558,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 73,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7617,10 +7617,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 143,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 7 Balloting applicants 8 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 57 Balloting applicants 84",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7676,10 +7676,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 176,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 38 Balloting applicants 63 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 60 Balloting applicants 90",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7735,10 +7735,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 212,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 18 Balloting applicants 21 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 40 Balloting applicants 79",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -7794,7 +7794,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 94,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7853,7 +7853,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 111,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7912,7 +7912,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 83,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -7971,10 +7971,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 172,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 5 Balloting applicants 7 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 53 Balloting applicants 58",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8030,7 +8030,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 109,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8089,7 +8089,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 118,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8148,7 +8148,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 118,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8207,10 +8207,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 126,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 3 Balloting applicants 6",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8266,7 +8266,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 64,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8325,7 +8325,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 123,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8384,10 +8384,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 195,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 59 Balloting applicants 94",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8443,10 +8443,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 155,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 53 Balloting applicants 76",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8502,10 +8502,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 192,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 18 Balloting applicants 42",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -8561,10 +8561,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 160,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 204,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 36 Balloting applicants 51 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 47 Balloting applicants 65",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8620,10 +8620,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 277,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 29 Balloting applicants 54 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 56 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 43 Balloting applicants 76",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8679,7 +8679,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 127,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8738,7 +8738,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 97,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8797,10 +8797,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 136,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 1 Balloting applicants 21 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 44 Balloting applicants 47",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -8856,10 +8856,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 106,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 5 Balloting applicants 6",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school"
       },
       {
         "year": 2025,
@@ -8915,7 +8915,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 150,
-        "applicants": 0,
+        "applicants": 46,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -8974,10 +8974,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 238,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 33 Balloting applicants 45 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 66 Balloting applicants 74",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9033,7 +9033,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 62,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9092,10 +9092,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 200,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 7 Balloting applicants 22",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -9151,10 +9151,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 161,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 14 Balloting applicants 17",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -9210,7 +9210,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 116,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9269,10 +9269,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 219,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C Supplementary: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 4 Balloting applicants 7",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -9328,10 +9328,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 195,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 22 Balloting applicants 26",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -9387,7 +9387,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 89,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9446,7 +9446,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 85,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9505,10 +9505,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 300,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 297,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 27 Balloting applicants 47 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 38 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 40 Balloting applicants 124",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9564,7 +9564,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 70,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9623,10 +9623,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 270,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 203,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 41 Balloting applicants 46 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 21 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 42 Balloting applicants 47",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9682,7 +9682,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 175,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9741,10 +9741,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 167,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 66 Balloting applicants 68 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 40 Balloting applicants 53",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9800,10 +9800,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 337,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 67 Balloting applicants 124 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 44 Balloting applicants 106",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9859,10 +9859,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 390,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 293,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 31 Balloting applicants 64 | Phase 2B: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 20 Balloting applicants 53 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 42 Balloting applicants 60",
+        "distanceCategory": "Singapore Citizen children residing outside 2km of the school | Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -9918,7 +9918,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 320,
-        "applicants": 0,
+        "applicants": 83,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -9977,10 +9977,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 188,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 86 Balloting applicants 128",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -10036,10 +10036,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 200,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 196,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Singapore Citizen children residing outside 2km of the school. Vacancies for ballot 2 Balloting applicants 32 | Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing between 1km and 2km of the school. Vacancies for ballot 13 Balloting applicants 23",
+        "distanceCategory": "Singapore Citizen children residing between 1km and 2km of the school | Singapore Citizen children residing outside 2km of the school"
       },
       {
         "year": 2025,
@@ -10095,7 +10095,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
+        "applicants": 153,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10154,7 +10154,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 80,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10213,7 +10213,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
+        "applicants": 61,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10272,7 +10272,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 280,
-        "applicants": 0,
+        "applicants": 93,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10331,10 +10331,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 210,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 127,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2A: Balloting: Yes Conducted for: Permanent Resident children residing within 1km of the school. Vacancies for ballot 1 Balloting applicants 3",
+        "distanceCategory": "Permanent Resident children residing within 1km of the school"
       },
       {
         "year": 2025,
@@ -10390,7 +10390,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 180,
-        "applicants": 0,
+        "applicants": 80,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10449,7 +10449,7 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 220,
-        "applicants": 0,
+        "applicants": 160,
         "ballotingConducted": false,
         "ballotingDetails": "Balloting: No",
         "distanceCategory": null
@@ -10508,10 +10508,10 @@
         "year": 2025,
         "phase": "Total",
         "vacancies": 240,
-        "applicants": 0,
-        "ballotingConducted": false,
-        "ballotingDetails": "Balloting: No",
-        "distanceCategory": null
+        "applicants": 213,
+        "ballotingConducted": true,
+        "ballotingDetails": "Phase 2C: Balloting: Yes Conducted for: Singapore Citizen children residing within 1km of the school. Vacancies for ballot 84 Balloting applicants 85",
+        "distanceCategory": "Singapore Citizen children residing within 1km of the school"
       },
       {
         "year": 2025,

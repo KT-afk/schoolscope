@@ -108,8 +108,36 @@ def parse_moe_records(html: str) -> dict[str, dict]:
         school_display = school_name.strip()
         records[normalize_key(school_display)] = {
             "schoolName": school_display,
-            "registrationRecords": sorted(registration_records, key=phase_sort_key),
+            "registrationRecords": sorted(apply_total_rollup(registration_records), key=phase_sort_key),
         }
+    return records
+
+
+def apply_total_rollup(records: list[dict]) -> list[dict]:
+    total = next((record for record in records if record["phase"] == "Total"), None)
+    phase_records = [record for record in records if record["phase"] != "Total"]
+    if not total or not phase_records:
+        return records
+
+    applicant_sum = sum(record["applicants"] for record in phase_records)
+    balloting_records = [record for record in phase_records if record["ballotingConducted"]]
+    detail_lines = [
+        f"{record['phase']}: {record['ballotingDetails']}"
+        for record in balloting_records
+        if record.get("ballotingDetails")
+    ]
+    distance_categories = sorted({
+        record["distanceCategory"]
+        for record in balloting_records
+        if record.get("distanceCategory")
+    })
+
+    total["applicants"] = applicant_sum
+    total["ballotingConducted"] = bool(balloting_records)
+    if detail_lines:
+        total["ballotingDetails"] = " | ".join(detail_lines)
+    if distance_categories:
+        total["distanceCategory"] = " | ".join(distance_categories)
     return records
 
 
